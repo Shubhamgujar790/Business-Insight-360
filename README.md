@@ -32,51 +32,51 @@ I worked on this project by following the Codebasics PowerBi Course.
   - Connecting to various data sources
   - Cleaning and transforming data for analysis
 
-- [x]2.Data Modeling
+- 2.Data Modeling
   - Designing effective data models
   - Creating relationships between tables
 
-- [x]3.DAX (Data Analysis Expressions)
+- 3.DAX (Data Analysis Expressions)
   - Writing and understanding DAX formulas
   - Creating calculated columns and measures
 
-- [x]4.Report Design
+- 4.Report Design
   - Building visually appealing and interactive reports
   - Utilizing various visualizations (tables, charts, maps, etc.)
 
-- [x]5.Dashboard Development
+- 5.Dashboard Development
   - Designing dashboards for real-time insights
   - Incorporating key performance indicators (KPIs)
 
-- [x]6.Power Query
+- 6.Power Query
   - Using Power Query for data shaping and transformation
   - Merging and appending queries
 
-- [x]7.Power BI Service
+- 7.Power BI Service
   - Publishing reports and dashboards to Power BI Service
   - Collaborating with others through sharing and collaboration features
 
-- [x]8.Data Analysis
+- 8.Data Analysis
   - Applying statistical analysis to data
   - Creating meaningful insights from data trends
 
-- [x]9.Integration with Other Tools
+- 9.Integration with Other Tools
   - Integrating Power BI with other Microsoft tools (Excel, Azure, etc.)
   - Embedding Power BI reports in applications
 
-- [x]10.Performance Optimization
+- 10.Performance Optimization
   - Optimizing report and query performance
   - Handling large datasets efficiently
 
-- [x]11.Troubleshooting and Debugging
+- 11.Troubleshooting and Debugging
   - Identifying and resolving common issues
   - Debugging errors in reports and data models
 
-- [x]12.Data Visualization Best Practices
+- 12.Data Visualization Best Practices
   - Adhering to best practices for effective data visualization
   - Choosing the right visualizations for different scenarios
 
-- [x]13.Continuous Learning
+- 13.Continuous Learning
   - Staying updated with the latest Power BI features and updates
   - Engaging in the Power BI community for learning and networking
 
@@ -94,16 +94,16 @@ Recently the company has faced a unforeseen loss by opening store in America bas
 
 **Project Outcomes**
 
-- [x]Customized a multi-functional Power BI dashboard to analyze AtliQ Hardware's sales trends over the global market by gathering data from 2 
-     different sources (Excel/CSV files and a SQL database).
-- [x]Built data model and visualizations in Power BI, and optimized the report with DAX studio which improved the performance of the report by 5%. 
-- [x]The dashboard enabled AtliQ hardware to analyze different department sales trends and make data-driven decisions, leading to a projected 10% 
-     revenue acceleration and 20% reduction in data-related expenses.
-- [x]Empowered stakeholders with real-time, data-driven insights.
-- [x]Facilitated quicker and more informed decision-making processes.
-- [x]Improved resource allocation and operational effectiveness.
-- [x]Created user-friendly, interactive dashboards for enhanced engagement.
-- [x]Increased visibility into key performance indicators (KPIs) for better monitoring.
+- Customized a multi-functional Power BI dashboard to analyze AtliQ Hardware's sales trends over the global market by gathering data from 2 
+  different sources (Excel/CSV files and a SQL database).
+- Built data model and visualizations in Power BI, and optimized the report with DAX studio which improved the performance of the report by 5%. 
+- The dashboard enabled AtliQ hardware to analyze different department sales trends and make data-driven decisions, leading to a projected 10% 
+  revenue acceleration and 20% reduction in data-related expenses.
+- Empowered stakeholders with real-time, data-driven insights.
+- Facilitated quicker and more informed decision-making processes.
+- Improved resource allocation and operational effectiveness.
+- Created user-friendly, interactive dashboards for enhanced engagement.
+- Increased visibility into key performance indicators (KPIs) for better monitoring.
 
 
                                                                
