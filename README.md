@@ -28,7 +28,7 @@ I worked on this project by following the Codebasics PowerBi Course.
 
   **PowerBI techniques Learnt-**
 
-- [x]1.Data Import and Transformation
+- 1.Data Import and Transformation
   - Connecting to various data sources
   - Cleaning and transforming data for analysis
 
