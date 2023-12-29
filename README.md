@@ -111,20 +111,19 @@ Recently the company has faced a unforeseen loss by opening store in America bas
 
 Business insight 360 
 
-![Alt text](C:\Users\ASUS\OneDrive\Desktop\bi\Screenshot (41).png)
+![Screenshot (41)](https://github.com/Shubhamgujar790/Business-Insight-360/assets/153626022/234112f4-138c-44f3-88f0-0d6a7e10f5c4)
 
-![Alt text](C:\Users\ASUS\OneDrive\Desktop\bi\Screenshot (42).png)
+![Screenshot (42)](https://github.com/Shubhamgujar790/Business-Insight-360/assets/153626022/0c61d8fe-e291-4e26-86c8-a4f78ff7119e)
 
-![Alt text](C:\Users\ASUS\OneDrive\Desktop\bi\Screenshot (43).png)
+![Screenshot (43)](https://github.com/Shubhamgujar790/Business-Insight-360/assets/153626022/f6e12b94-398a-49ac-9364-f2f9269233bb)
 
-![Alt text](C:\Users\ASUS\OneDrive\Desktop\bi\Screenshot (44).png)
+![Screenshot (44)](https://github.com/Shubhamgujar790/Business-Insight-360/assets/153626022/8c59e2d4-b711-48bb-b068-adf3ac6b4446)
 
-![Alt text](C:\Users\ASUS\OneDrive\Desktop\bi\Screenshot (46).png)
+![Screenshot (46)](https://github.com/Shubhamgujar790/Business-Insight-360/assets/153626022/eca2e949-3613-4819-8c60-5cf2c63bb7fd)
 
-![Alt text](C:\Users\ASUS\OneDrive\Desktop\bi\Screenshot (47).png)
+![Screenshot (47)](https://github.com/Shubhamgujar790/Business-Insight-360/assets/153626022/31f06f94-2e60-44ac-9cb3-1957b5d80f92)
 
-![Alt text](C:\Users\ASUS\OneDrive\Desktop\bi\Screenshot (49).png)
-
+![Screenshot (49)](https://github.com/Shubhamgujar790/Business-Insight-360/assets/153626022/83d6f92e-0357-4cea-97c1-16757fba0aa2)
 
 
 
