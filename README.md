@@ -7,7 +7,6 @@
 **Project Overview**
 
 The AtliQ Hardware Business Insight 360 Power BI project aims to create an advanced business intelligence dashboard that offers a comprehensive view of key metrics and performance indicators for AtliQ Hardware. This dashboard enable stakeholders to gain insights into sales, inventory, customer behavior, and other critical aspects of the business, facilitating data-driven decision-making.
-I worked on this project by following the Codebasics PowerBi Course.
 
 **Tech stacks**
 
