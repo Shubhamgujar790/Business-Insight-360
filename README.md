@@ -10,19 +10,19 @@ The AtliQ Hardware Business Insight 360 Power BI project aims to create an advan
 
 **Tech stacks**
 
- 1.SQL
+1.SQL
 
- 2.PowerBi Desktop
+2.PowerBi Desktop
 
- 3.Excel
+3.Excel
 
- 4.DAX language
+4.DAX language
 
- 5.DAX studio (for optimizing the report)
+5.DAX studio (for optimizing the report)
 
- 6.Project charter file
+6.Project charter file
 
- 7.M Language
+7.M Language
 
 
   **PowerBI techniques Learnt-**
