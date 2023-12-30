@@ -111,7 +111,7 @@ Recently the company has faced a unforeseen loss by opening store in America bas
 
 Business insight 360 
 
-![Screenshot (41)](https://github.com/Shubhamgujar790/Business-Insight-360/assets/153626022/234112f4-138c-44f3-88f0-0d6a7e10f5c4)
+![Screenshot (51)](https://github.com/Shubhamgujar790/Business-Insight-360/assets/153626022/a9368438-b824-4c07-bcb1-a9033430b3fd)
 
 ![Screenshot (42)](https://github.com/Shubhamgujar790/Business-Insight-360/assets/153626022/0c61d8fe-e291-4e26-86c8-a4f78ff7119e)
 
