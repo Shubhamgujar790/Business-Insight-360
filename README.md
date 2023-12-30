@@ -1,7 +1,7 @@
 # Business-Insight-360
 **BUSINESS INSIGHT 360**
 
-[Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzk0MTMxMGEtMGMzMS00OTA3LTk2MmEtYmY1ZGJjYTA5MWZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmEzMGQ5ZmQtMjc0Ni00NzI4LWIxZTUtZDZjYmE5MTQyMTljIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 **Project Overview**
